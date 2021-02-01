@@ -2,28 +2,28 @@
 let sherwaniStr = `
     <div id="sherwanis-list" class="item-div">
         <div class="item">
-            <img src="sw1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="sw4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="sw4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
     </div>
 `;
@@ -31,28 +31,28 @@ let sherwaniStr = `
 let shirtStr = `
     <div id="shirts-list" class="item-div">
         <div class="item">
-            <img src="s1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="s4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="s4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
     </div>
 `;
@@ -60,28 +60,28 @@ let shirtStr = `
 let tshirtStr = `
     <div id="tshirts-list" class="item-div">
         <div class="item">
-            <img src="t1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t1.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t1.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t2.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t2.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t3.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t3.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
         <div class="item">
-            <img src="t4.jpg" class="item-img" height="300px" width="150px" alt="s1">
+            <img src="t4.jpg" class="item-img" height="300px" width="170px" alt="s1">
         </div>
     </div>
 `;
