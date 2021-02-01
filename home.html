@@ -143,38 +143,38 @@
         $("#tshirts-list").hide();
         $("#sherwanis-list").hide();
         $("#sherwanis-img").css("border","3px solid blue");
-        $("#sherwanis-list").slideDown(2000);
+        $("#sherwanis-list").show(2000);
         
 
         $("#sherwanis").click(function(){
-            $("#shirts-list").hide();
-            $("#tshirts-list").hide();
+            $("#shirts-list").hide(1000);
+            $("#tshirts-list").hide(1000);
 
             $("#shirts-img").css("border","none");
             $("#tshirts-img").css("border","none");
             $("#sherwanis-img").css("border","3px solid blue");
 
-            $("#sherwanis-list").slideDown(2000);
+            $("#sherwanis-list").show(1000);
         });
         $("#shirts").click(function(){
-            $("#tshirts-list").hide();
-            $("#sherwanis-list").hide();
+            $("#tshirts-list").hide(1000);
+            $("#sherwanis-list").hide(1000);
 
             $("#sherwanis-img").css("border","none");
             $("#tshirts-img").css("border","none");
             $("#shirts-img").css("border","3px solid blue");
 
-            $("#shirts-list").slideDown(2000);
+            $("#shirts-list").show(1000);
         });
         $("#tshirts").click(function(){
-            $("#shirts-list").hide();
-            $("#sherwanis-list").hide(); 
+            $("#shirts-list").hide(1000);
+            $("#sherwanis-list").hide(1000); 
 
             $("#shirts-img").css("border","none");
             $("#sherwanis-img").css("border","none");
             $("#tshirts-img").css("border","3px solid blue");
 
-            $("#tshirts-list").slideDown(2000);
+            $("#tshirts-list").show(1000);
         });
     });
     </script>
