@@ -23,12 +23,17 @@
 
 .navbar-div{
     border-bottom: 1px solid black;
+    position: sticky; 
+    top:0;
+    background-color: white;
+    width: 100%;
+    z-index: 1;
 }
 
 .category-div{
     padding-left: 20px;
+    padding: 5px;
     background-color: rgb(201, 196, 196);
-    
 }
 
 .category{
@@ -48,7 +53,7 @@
 }
 
 .item-div{
-    /* background-color: rgb(162, 118, 202); */
+    background-color: white;
     
 }
 
@@ -59,4 +64,13 @@
 
 .item-img{
     margin-top: 20px;
+}
+
+.footer{
+    width: 100%;
+    justify-content: center;
+    border-top: 1px solid black;
+    font-size: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
